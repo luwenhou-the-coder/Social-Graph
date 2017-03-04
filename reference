@@ -1,0 +1,4 @@
+https://spark.apache.org/docs/latest/programming-guide.html#broadcast-variables
+https://spark.apache.org/docs/latest/programming-guide.html#accumulators
+http://stackoverflow.com/questions/26369916/what-is-the-right-way-to-have-a-static-object-on-all-workers
+https://spark.apache.org/docs/1.6.0/api/java/org/apache/spark/api/java/JavaRDD.html
